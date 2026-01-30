@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: AiPoweredCodeEditor
+    description:  backend application for ai powered coding
+
